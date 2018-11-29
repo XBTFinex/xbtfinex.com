@@ -1,0 +1,74 @@
+header.masthead {
+    background-color: #000;
+    background-image: url(../img/TRADE.jpg);
+}
+
+.bg-darkish {
+    background-color: #0e1112;
+}
+
+.footer-logo {
+    font-size: 2rem;
+    color: #6c757d;
+    font-weight: bold;
+}
+
+footer.footer {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.xb-https {
+    font-weight: bold;
+    color: #28a745;
+    font-size: 14px;
+}
+
+.xb-domain {
+    color: gray;
+    font-weight: bold;;
+}
+
+.xb-sdomain {
+    color: #333;
+    font-weight: bold;;
+}
+
+a.lead:hover {
+    text-decoration: none;
+}
+
+footer ul.menu-list li.list-inline-item {
+    padding-right: 3rem;
+}
+
+footer ul.menu-list li.list-inline-item h5 {
+    color: #b3adad;
+}
+
+footer li.list-inline-item a {
+    font-size: 15px;
+}
+
+
+footer li.list-inline-item a:hover {
+    text-decoration: none;
+}
+
+footer li.list-inline-item a i.fas {
+    color: #b3adad;
+    padding-right: 7px;
+    font-size: 13px;
+}
+
+.motto  {
+    color: #b3adad;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+
+.xlead {
+    font-size: 1.15rem;
+    color: #423e3e;
+}
